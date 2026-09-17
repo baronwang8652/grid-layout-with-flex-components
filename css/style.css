@@ -32,7 +32,7 @@ body {
 }
 
 .emoji h2 {
-    /*set the order of the h2 element to 2*/
+    /* set the order of the h2 element to 2 */
     order: 2;
     /* set the width to 100% */
     width: 100%;
@@ -42,17 +42,17 @@ body {
 }
 
 .emoji p {
-    /*set the order of the p element to 3*/
+    /* set the order of the p element to 3 */
     order: 3;
     margin: 0.5rem 0;
 }
 
 .emoji a {
-    /*set the order of the a element to 4*/
+    /* set the order of the a element to 4 */
     order: 4;
     /* set the width to 100% */
     width: 100%;
-    /* set the margin-top to auto */
+    /* pushes button to bottom of card */
     margin-top: auto;
 
     text-decoration: none;
@@ -63,7 +63,7 @@ body {
 }
 
 .icon {
-    /*set icon order to 1*/
+    /* set icon order to 1 */
     order: 1;
     font-size: 4rem;
 }
