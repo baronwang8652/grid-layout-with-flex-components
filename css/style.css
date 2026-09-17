@@ -34,6 +34,8 @@ body {
 .emoji h2 {
     /*set the order of the h2 element to 2*/
     order: 2;
+    /* set the width to 100% */
+    width: 100%;
 
     margin: 0;
     border-bottom: 2px solid #ccc;
@@ -50,7 +52,8 @@ body {
     order: 4;
     /* set the width to 100% */
     width: 100%;
-
+    /* set the margin-top to auto */
+    margin-top: auto;
 
     text-decoration: none;
     background-color: #781BAA;
